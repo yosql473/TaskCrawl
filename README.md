@@ -1,2 +1,2 @@
 # TaskCrawl
-a flexiable python multithreads spider support distributed environment
+a flexible python multi-threads spider supporting distributed environment
